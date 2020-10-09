@@ -2,6 +2,7 @@
 ### Associate Professor of Practice
 ### Tippie College of Business, The University of Iowa
 Pronouns: he/him/his
+
 [LinkedIn](https://www.linkedin.com/mikecolbert)
 
 <!--
