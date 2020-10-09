@@ -1,4 +1,8 @@
-### Hi there 👋
+# Mike Colbert
+### Associate Professor of Practice
+### Tippie College of Business, The University of Iowa
+Pronouns: he/him/his
+[LinkedIn](https://www.linkedin.com/mikecolbert)
 
 <!--
 **mikecolbert/mikecolbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
