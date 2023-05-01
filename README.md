@@ -7,7 +7,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/colbert_tweets)
 
 ### Current skills
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python) 
+![Python badge](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=white&color=3776AB&logoColor=white&label=%20&style=flat-square)
 
 
 
