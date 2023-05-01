@@ -1,4 +1,4 @@
-## Hi, I'm Mike. (:wave:)
+## Hi, I'm Mike. :wave:
 
 ### I'm an Associate Professor of Practice in the Business Analytics department at the Tippie College of Business, The University of Iowa
 
